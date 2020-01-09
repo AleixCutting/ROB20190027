@@ -64,9 +64,9 @@ library(knitr)
 
 <p> Accomodation.
   <ul>
-   Double room for a single use. Rates per room per night. Including breakfast: 155€ VAT inc.
+   Double room for a single use. Rates per room per night. Including breakfast: 170€ VAT inc.
    
-   Double room for a double use. Rates per room per night. including breakfast: 170€ VAT inc.
+   Double room for a double use. Rates per room per night. including breakfast: 185€ VAT inc.
    
    Touristic tax: 1,21€ VAT inc per person per night.
   </ul>
@@ -88,7 +88,7 @@ font-style: italic;
 
 </br>
 
-## Alternative Hotels {.tabset .tabset-fade .tabset-pills}
+## Alternative Hotel {.tabset .tabset-fade .tabset-pills}
 
 ### H10 Metropolitan
 
@@ -122,40 +122,11 @@ font-style: italic;
 
 </br>
 
-### Hotel Barcelona Universal
-
-<iframe src="Barcelona Universal/Universal.html" frameborder="0" width="100%" height="1300" scrolling="no"></iframe>
-
-<div class="budget">
-
-<p> Accomodation.
-  <ul>
-   Double room for a single use. Rates per room per night. Including breakfast: 217€ VAT inc.
-   
-   Touristic tax: 1,21€ VAT inc per person per night.
-  </ul>
-</p>
-</div>
-
-<style>
-
-.budget{
-background-color: #607D8B;
-color: white;
-padding: 10px;
-border: 1px solid black;
-margin-left: 5px;
-border-radius: 5px;
-font-style: italic;
-}
-</style>
-
-
 </br>
 
 # MAP
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=19HBFga5CKAOgsAiuYpnwi9h_n3o4C_aP" width="100%" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1gDtcHXmDiiHPK7m2APf_oTMXfYQy45Wa" width="100%" height="480"></iframe>
 
 </br>
 
